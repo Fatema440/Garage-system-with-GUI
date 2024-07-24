@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "garage system", "garage system.cproj", "{AF23084C-1514-4C14-ADA8-8A3F483E3F64}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "send data from microcontroller to laptop", "C:\Users\W.I\Desktop\send data from micro controller to laptop\code\send data from microcontroller to laptop\send data from microcontroller to laptop.cproj", "{8A0D21D3-498B-4ECC-A0A7-A1BCE84EF025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF23084C-1514-4C14-ADA8-8A3F483E3F64}.Debug|AVR.ActiveCfg = Debug|AVR
+		{AF23084C-1514-4C14-ADA8-8A3F483E3F64}.Debug|AVR.Build.0 = Debug|AVR
+		{AF23084C-1514-4C14-ADA8-8A3F483E3F64}.Release|AVR.ActiveCfg = Release|AVR
+		{AF23084C-1514-4C14-ADA8-8A3F483E3F64}.Release|AVR.Build.0 = Release|AVR
+		{8A0D21D3-498B-4ECC-A0A7-A1BCE84EF025}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8A0D21D3-498B-4ECC-A0A7-A1BCE84EF025}.Debug|AVR.Build.0 = Debug|AVR
+		{8A0D21D3-498B-4ECC-A0A7-A1BCE84EF025}.Release|AVR.ActiveCfg = Release|AVR
+		{8A0D21D3-498B-4ECC-A0A7-A1BCE84EF025}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
